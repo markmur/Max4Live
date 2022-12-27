@@ -1,0 +1,11 @@
+{
+  "name": "max4live",
+  "version": "1.0.0",
+  "description": "Max 4 Live packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
